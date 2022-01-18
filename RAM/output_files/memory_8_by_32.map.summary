@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Sun Nov 22 21:16:02 2020
+Quartus Prime Version : 19.1.0 Build 670 09/22/2019 SJ Lite Edition
+Revision Name : memory_8_by_32
+Top-level Entity Name : memory_8_by_32
+Family : MAX 10
+Total logic elements : 472
+    Total combinational functions : 318
+    Dedicated logic registers : 264
+Total registers : 264
+Total pins : 23
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

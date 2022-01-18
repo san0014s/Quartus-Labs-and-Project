@@ -1,0 +1,101 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Data_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Read_Addr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Read_Addr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Read_Addr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Read_Addr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Read_Addr[4]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "Write_Enable",
+					"strict" : false
+				},
+				{
+					"name" : "Data_in[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_in[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_in[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_in[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_in[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_in[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_in[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_in[7]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
