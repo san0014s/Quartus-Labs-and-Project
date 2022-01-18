@@ -1,0 +1,24 @@
+|ControlUnit
+OpCode[0] => Equal0.IN5
+OpCode[0] => Equal1.IN5
+OpCode[0] => Equal2.IN5
+OpCode[1] => Equal0.IN4
+OpCode[1] => Equal1.IN4
+OpCode[1] => Equal2.IN4
+OpCode[2] => Equal0.IN3
+OpCode[2] => Equal1.IN3
+OpCode[2] => Equal2.IN3
+clk => current_state~17.DATAIN
+ToALoad <= ToALoad.DB_MAX_OUTPUT_PORT_TYPE
+ToMarLoad <= WideOr15.DB_MAX_OUTPUT_PORT_TYPE
+ToIrLoad <= ToIrLoad.DB_MAX_OUTPUT_PORT_TYPE
+ToMdriLoad <= WideOr16.DB_MAX_OUTPUT_PORT_TYPE
+ToMdroLoad <= ToMdroLoad.DB_MAX_OUTPUT_PORT_TYPE
+ToPcIncrement <= ToPcIncrement.DB_MAX_OUTPUT_PORT_TYPE
+ToMarMux <= WideOr14.DB_MAX_OUTPUT_PORT_TYPE
+ToRamWriteEnable <= ToRamWriteEnable.DB_MAX_OUTPUT_PORT_TYPE
+ToAluOp[0] <= ToAluOp[0].DB_MAX_OUTPUT_PORT_TYPE
+ToAluOp[1] <= <GND>
+ToAluOp[2] <= ToAluOp[2].DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,65 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ToALoad",
+					"strict" : false
+				},
+				{
+					"name" : "ToMarLoad",
+					"strict" : false
+				},
+				{
+					"name" : "ToIrLoad",
+					"strict" : false
+				},
+				{
+					"name" : "ToMdriLoad",
+					"strict" : false
+				},
+				{
+					"name" : "ToMdroLoad",
+					"strict" : false
+				},
+				{
+					"name" : "ToPcIncrement",
+					"strict" : false
+				},
+				{
+					"name" : "ToMarMux",
+					"strict" : false
+				},
+				{
+					"name" : "ToRamWriteEnable",
+					"strict" : false
+				},
+				{
+					"name" : "ToAluOp[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ToAluOp[2]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "OpCode[0]",
+					"strict" : false
+				},
+				{
+					"name" : "OpCode[1]",
+					"strict" : false
+				},
+				{
+					"name" : "OpCode[2]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
