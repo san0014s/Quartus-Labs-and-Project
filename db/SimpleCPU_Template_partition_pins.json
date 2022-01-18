@@ -1,0 +1,197 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "pcOut[0]",
+					"strict" : false
+				},
+				{
+					"name" : "pcOut[1]",
+					"strict" : false
+				},
+				{
+					"name" : "pcOut[2]",
+					"strict" : false
+				},
+				{
+					"name" : "pcOut[3]",
+					"strict" : false
+				},
+				{
+					"name" : "pcOut[4]",
+					"strict" : false
+				},
+				{
+					"name" : "pcOut[5]",
+					"strict" : false
+				},
+				{
+					"name" : "pcOut[6]",
+					"strict" : false
+				},
+				{
+					"name" : "pcOut[7]",
+					"strict" : false
+				},
+				{
+					"name" : "marOut[0]",
+					"strict" : false
+				},
+				{
+					"name" : "marOut[1]",
+					"strict" : false
+				},
+				{
+					"name" : "marOut[2]",
+					"strict" : false
+				},
+				{
+					"name" : "marOut[3]",
+					"strict" : false
+				},
+				{
+					"name" : "marOut[4]",
+					"strict" : false
+				},
+				{
+					"name" : "irOutput[0]",
+					"strict" : false
+				},
+				{
+					"name" : "irOutput[1]",
+					"strict" : false
+				},
+				{
+					"name" : "irOutput[2]",
+					"strict" : false
+				},
+				{
+					"name" : "irOutput[3]",
+					"strict" : false
+				},
+				{
+					"name" : "irOutput[4]",
+					"strict" : false
+				},
+				{
+					"name" : "irOutput[5]",
+					"strict" : false
+				},
+				{
+					"name" : "irOutput[6]",
+					"strict" : false
+				},
+				{
+					"name" : "irOutput[7]",
+					"strict" : false
+				},
+				{
+					"name" : "mdriOutput[0]",
+					"strict" : false
+				},
+				{
+					"name" : "mdriOutput[1]",
+					"strict" : false
+				},
+				{
+					"name" : "mdriOutput[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mdriOutput[3]",
+					"strict" : false
+				},
+				{
+					"name" : "mdriOutput[4]",
+					"strict" : false
+				},
+				{
+					"name" : "mdriOutput[5]",
+					"strict" : false
+				},
+				{
+					"name" : "mdriOutput[6]",
+					"strict" : false
+				},
+				{
+					"name" : "mdriOutput[7]",
+					"strict" : false
+				},
+				{
+					"name" : "mdroOutput[0]",
+					"strict" : false
+				},
+				{
+					"name" : "mdroOutput[1]",
+					"strict" : false
+				},
+				{
+					"name" : "mdroOutput[2]",
+					"strict" : false
+				},
+				{
+					"name" : "mdroOutput[3]",
+					"strict" : false
+				},
+				{
+					"name" : "mdroOutput[4]",
+					"strict" : false
+				},
+				{
+					"name" : "mdroOutput[5]",
+					"strict" : false
+				},
+				{
+					"name" : "mdroOutput[6]",
+					"strict" : false
+				},
+				{
+					"name" : "mdroOutput[7]",
+					"strict" : false
+				},
+				{
+					"name" : "aOut[0]",
+					"strict" : false
+				},
+				{
+					"name" : "aOut[1]",
+					"strict" : false
+				},
+				{
+					"name" : "aOut[2]",
+					"strict" : false
+				},
+				{
+					"name" : "aOut[3]",
+					"strict" : false
+				},
+				{
+					"name" : "aOut[4]",
+					"strict" : false
+				},
+				{
+					"name" : "aOut[5]",
+					"strict" : false
+				},
+				{
+					"name" : "aOut[6]",
+					"strict" : false
+				},
+				{
+					"name" : "aOut[7]",
+					"strict" : false
+				},
+				{
+					"name" : "incrementOut",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

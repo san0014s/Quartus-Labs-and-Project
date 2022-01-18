@@ -1,0 +1,19 @@
+
+State Machine - |SimpleCPU_Template|ControlUnit:Label_CU|current_state
+Name current_state.increment_pc current_state.staa_write_mem current_state.staa_load_mdro current_state.adaa_store_load_a current_state.adaa_load_mdri current_state.adaa_read_mem current_state.adaa_load_mar current_state.ldaa_load_a current_state.ldaa_load_mdri current_state.ldaa_read_mem current_state.ldaa_load_mar current_state.decode current_state.load_ir current_state.load_mdri current_state.read_mem current_state.load_mar 
+current_state.load_mar 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+current_state.read_mem 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+current_state.load_mdri 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+current_state.load_ir 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+current_state.decode 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+current_state.ldaa_load_mar 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+current_state.ldaa_read_mem 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+current_state.ldaa_load_mdri 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+current_state.ldaa_load_a 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+current_state.adaa_load_mar 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+current_state.adaa_read_mem 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+current_state.adaa_load_mdri 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+current_state.adaa_store_load_a 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.staa_load_mdro 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.staa_write_mem 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.increment_pc 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
