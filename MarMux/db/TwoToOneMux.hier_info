@@ -1,0 +1,35 @@
+|TwoToOneMux
+A[0] => output[0].DATAB
+A[1] => output[1].DATAB
+A[2] => output[2].DATAB
+A[3] => output[3].DATAB
+A[4] => output[4].DATAB
+A[5] => output[5].DATAB
+A[6] => output[6].DATAB
+A[7] => output[7].DATAB
+B[0] => output[0].DATAA
+B[1] => output[1].DATAA
+B[2] => output[2].DATAA
+B[3] => output[3].DATAA
+B[4] => output[4].DATAA
+B[5] => output[5].DATAA
+B[6] => output[6].DATAA
+B[7] => output[7].DATAA
+address => output[0].OUTPUTSELECT
+address => output[1].OUTPUTSELECT
+address => output[2].OUTPUTSELECT
+address => output[3].OUTPUTSELECT
+address => output[4].OUTPUTSELECT
+address => output[5].OUTPUTSELECT
+address => output[6].OUTPUTSELECT
+address => output[7].OUTPUTSELECT
+output[0] <= output[0].DB_MAX_OUTPUT_PORT_TYPE
+output[1] <= output[1].DB_MAX_OUTPUT_PORT_TYPE
+output[2] <= output[2].DB_MAX_OUTPUT_PORT_TYPE
+output[3] <= output[3].DB_MAX_OUTPUT_PORT_TYPE
+output[4] <= output[4].DB_MAX_OUTPUT_PORT_TYPE
+output[5] <= output[5].DB_MAX_OUTPUT_PORT_TYPE
+output[6] <= output[6].DB_MAX_OUTPUT_PORT_TYPE
+output[7] <= output[7].DB_MAX_OUTPUT_PORT_TYPE
+
+
